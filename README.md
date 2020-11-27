@@ -18,7 +18,7 @@ py3.8 pip install selenium
 
 ## Usage
 <ul>
-  <li> Login to your pythonanywhere account.
+  <li> <a href="https://www.pythonanywhere.com/login/">Login to your pythonanywhere account.</a>
   <li> Create a topic on the forums and request enabling "chrome headless" option for your account, this option is disabled by default and if it remains disabled the script will not work.<br>
     
 Continue the next steps, after Pythonanywhere stuff enables this option for you:
@@ -31,6 +31,7 @@ Continue the next steps, after Pythonanywhere stuff enables this option for you:
 ```
 git clone https://github.com/Mouhab-dev/pyanywhere_automation.git
 ```
+
    <li> Exit from the console.
     </ul>
     <li> Go to Tasks Tab:
