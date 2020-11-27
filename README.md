@@ -19,11 +19,14 @@ py3.8 pip install selenium
 ## Usage
 <ul>
   <li> Login to your pythonanywhere account.
-  <li> Create a topic on the forums and request enabling "chrome headless" option for your account, this option is disabled by default and if it remains disabled the script will not work.
+  <li> Create a topic on the forums and request enabling "chrome headless" option for your account, this option is disabled by default and if it remains disabled the script will not work.<br>
+    
+Continue the next steps, after Pythonanywhere stuff enables this option for you:
   <li> Go to Consoles Tab:
     <ul>
       <li> Create a new Bash console.
-      <li> Clone my repo by typing this command in the bash terminal:
+        <li> install Selenium library if you don't have it.
+        <li> Clone my repo by typing this command in the bash terminal:
         
 ```
 git clone https://github.com/Mouhab-dev/pyanywhere_automation.git
