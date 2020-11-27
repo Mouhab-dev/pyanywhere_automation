@@ -26,7 +26,7 @@ py3.8 pip install selenium
       <li> Clone my repo by typing this command in the bash terminal:
         
 ```
-git clone 
+git clone https://github.com/Mouhab-dev/pyanywhere_automation.git
 ```
    <li> Exit from the console.
     </ul>
