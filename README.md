@@ -15,6 +15,7 @@ Make sure to Choose your python version, here I'm using python 3.8
 ```
 py3.8 pip install selenium
 ```
+- Gmail account for the script to use while sending emails to notify you about alerts.
 
 ## Usage
 <ul>
@@ -42,4 +43,14 @@ git clone https://github.com/Mouhab-dev/pyanywhere_automation.git
 </ul>
       
       
-## Test
+## Notice
+
+All of your sensetive informations will be hardcoded in the script as plaintext also your gmail password if you turned "less secure apps" option on for the gmail account the script will be using.
+
+To solve this problem you have 2 options:
+<ol>
+  <li> You can solve gmail password issue by using the 2FA Method on your gmail account and use app passwords instead of your actual gmail password, but this do not solve pythonanywhere's problem.
+  <li> You can hide all your sensitive informations by using "Environment variables" method but it is kind of masking the password and not completely securing it.
+</ol>
+
+Over all you should consider the free-tier as an expirmental hosting plan and not an actual real hosting service, and should be considered just only if you want to show your skills and web development experience, for the gmail account it should be a new one used for this purpose only or similar unsensitive uses.
