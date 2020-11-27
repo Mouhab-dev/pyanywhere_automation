@@ -11,7 +11,7 @@ This is a python script used for pythonanywhere free hosting plan if you want to
 ## Requirements
 
 - Selenium Library <br>
-Make sure to Choose your python version, here I'm using python 3.8
+Make sure to Choose your python version, here I'm using python 3.8:
 ```
 py3.8 pip install selenium
 ```
@@ -20,9 +20,9 @@ py3.8 pip install selenium
 ## Usage
 <ul>
   <li> <a href="https://www.pythonanywhere.com/login/">Login to your pythonanywhere account.</a>
-  <li> Create a topic on the forums and request enabling "chrome headless" option for your account, this option is disabled by default and if it remains disabled the script will not work.<br>
+  <li> Create a new topic on the forums or comment on a similar topic and request enabling "chrome headless" option for your account, this option is disabled by default and if it remains disabled the script will not work.<br>
     
-Continue the next steps, after Pythonanywhere stuff enables this option for you:
+Continue the next steps only after Pythonanywhere stuff enable this option for you:
   <li> Go to Consoles Tab:
     <ul>
       <li> Create a new Bash console.
